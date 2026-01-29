@@ -1,7 +1,7 @@
 # OPD Token Allocation Engine
 
 ## Overview
-This project is a backend system designed to manage hospital Outpatient Department (OPD) token allocation with **elastic capacity**. [cite_start]It handles real-world variability such as emergency insertions, cancellations, and doctor availability[cite: 3, 11].
+This project is a backend system designed to manage hospital Outpatient Department (OPD) token allocation with **elastic capacity**. [cite_start]It handles real-world variability such as emergency insertions, cancellations, and doctor availability
 
 ## Features
 * [cite_start]**Elastic Capacity**: Supports dynamic slot resizing for emergencies[cite: 3].
